@@ -33,18 +33,10 @@ specializing in **AI & Data** while building a solid foundation in computer scie
 **Web & DevOps**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaOhd&show_icons=true&theme=default&hide_border=true&title_color=C0392B&icon_color=C0392B&text_color=2C3E50)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaOhd&layout=compact&hide_border=true&title_color=C0392B&text_color=2C3E50)
 
 ---
 
