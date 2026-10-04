@@ -7,7 +7,7 @@ specializing in **AI & Data** while building a solid foundation in computer scie
 
 ## 🧠 About Me
 
-- 🎓 1st year engineering cycle  — UM6P College of Computing
+- 🎓 2nd year engineering cycle  — UM6P College of Computing
 - 🌱 Exploring probabilistic computing, optimization algorithms, and agentic AI
 - 🏀 Basketball player & artist in my free time
 
